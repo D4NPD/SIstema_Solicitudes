@@ -2,7 +2,9 @@ import React from 'react'
 
 const Inicio = () => {
   return (
-    <div>Inicio</div>
+    <div className='container text-center'>
+      <h2>Inicio</h2>
+    </div>
   )
 }
 
